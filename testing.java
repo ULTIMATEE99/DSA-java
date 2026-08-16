@@ -1,7 +1,5 @@
-public class testing {
+class testing {
     public static void main(String[] args) {
         System.out.println("testing gitignore");
     }
-
-    
 }
