@@ -1,5 +1,5 @@
 class testing{
      public static void main(String[] args) {
-        System.out.println("Starting my DSA journey!");
+        System.out.println("Starting my DSA !");
     }
 }
